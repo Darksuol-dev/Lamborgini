@@ -79,7 +79,7 @@ body{
 }
 
 
-@media (max-width:400px) {
+@media (max-width:500px) {
     .maincont{
         font-size: 0.7rem;
         left: 15px;
